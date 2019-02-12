@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT IN GITHUB1"
+example.property: "I AM IN THE DEFAULT IN GITHUB"
 spring.jpa.database: "MYSQL"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
